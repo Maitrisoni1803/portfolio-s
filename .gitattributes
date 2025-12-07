@@ -1,1 +1,3 @@
-*.css linguist-language=CSS
+style.css linguist-language=CSS
+css/* linguist-vendored
+lib/* linguist-vendored
